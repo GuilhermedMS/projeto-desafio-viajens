@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(192, 189, 176);
+  background-color: rgb(44, 43, 42);
   
 }
 
@@ -12,7 +12,7 @@ main {
 }
 
 #comeco {
-  margin-top: 88px;
+  margin-top: 30px;
 }
 
 #primeiroimg {
@@ -35,7 +35,7 @@ h1 {
   font-family: 'Open Sans';
 }
 
-p, ul {
+p, ul, footer {
   font-size: 16px;
   font-family: 'Open Sans';
   color: #333;
@@ -44,6 +44,7 @@ p, ul {
 #pdocomeco {
   font-style: italic;
   margin: 24px 0px 44px 0px;
+  text-align: center;
 }
 
 .divider {
@@ -94,4 +95,16 @@ img {
   background-color: #D9D9D9;
   margin-top: 40px;
   margin-bottom: 40px;
+}
+
+#pertodorodape {
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+footer {
+  padding-bottom: 38px;
+  text-align: center;
+  color: #F5F4F0;
+  padding-top: 65px;
 }
